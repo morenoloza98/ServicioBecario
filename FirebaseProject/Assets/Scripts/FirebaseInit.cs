@@ -6,7 +6,10 @@ using Firebase.Analytics;
 
 public class FirebaseInit : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    void Awake() {
+        // DontDestroyOnLoad(this.gameObject);
+    }
     void Start()
     {
         FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
