@@ -6,6 +6,6 @@
   <string name="project_id" translatable="false">servicio-becario</string>
   <string name="google_api_key" translatable="false">AIzaSyCvq7CCWTdxHVKTEr1L26FaMUNgM7F4IGg</string>
   <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvq7CCWTdxHVKTEr1L26FaMUNgM7F4IGg</string>
-  <string name="google_app_id" translatable="false">1:272268143006:android:4d8beb6c8140d5939bce8f</string>
+  <string name="google_app_id" translatable="false">1:272268143006:android:13684a5421392d9d9bce8f</string>
   <string name="default_web_client_id" translatable="false">272268143006-90gl0ueo273ju3ttu5fno5miafuhdq7e.apps.googleusercontent.com</string>
 </resources>
